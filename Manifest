@@ -1,0 +1,11 @@
+MIDlet-1: da BOMB,/bomb18.png,DaBomb
+#MIDlet-2: ProjectName, ProjectName_20x20.png, HelloWorld
+MIDlet-Name: DaBomb
+MIDlet-Icon: /bomb18.png
+MIDlet-Vendor: burningsoda.com
+MIDlet-Version: 1.0
+MIDlet-Description: Lass die Bombe platzen!
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
+#MIDlet-Permissions: javax.microedition.io.Connector.http
+Content-Folder: Games
